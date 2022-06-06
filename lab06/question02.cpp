@@ -1,5 +1,9 @@
 // Given a graph, design an algorithm and implement it using a program to find if a graph is
 // bipartite or not. (Hint: use BFS)
+// A bipartite graph is a graph in which if the graph coloring is possible using two colors i.e; vertices in a set are colored with the same color.
+// This is a C++ program to Check whether a graph bipartite or not using BFS.
+
+
 
 #include<iostream>
 #include<vector>
