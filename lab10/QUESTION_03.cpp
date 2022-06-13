@@ -40,4 +40,4 @@ int main(){
         cout<<"\nNO\n";
     cout<<median(arr);
 }
-© 2022 GitHub, Inc.
+
